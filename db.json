@@ -1,1 +1,8 @@
-
+[
+  {
+    "id": 1,
+    "mama": "test"
+    "email": "test@gmail.com"
+    "telpon": "0909090909"
+  }
+]
